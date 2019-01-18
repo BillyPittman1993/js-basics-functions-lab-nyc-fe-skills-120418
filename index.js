@@ -1,5 +1,7 @@
 // Code your solution in this file!
 
-function distanceFromHqInBlocks(blocks) {
-  if (distance )
+function distanceFromHqInBlocks(distance) {
+  if (distance === 43) {
+  }
+  return 
 }
