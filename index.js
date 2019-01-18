@@ -1,7 +1,7 @@
 // Code your solution in this file!
 
 function distanceFromHqInBlocks(distance) {
-  hq = 42 
+  headquarters = 42 
 if (distance - hq === 1) {
 return true 
 }
