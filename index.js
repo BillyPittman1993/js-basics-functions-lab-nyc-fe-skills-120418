@@ -19,4 +19,6 @@ function distanceFromHqInFeet(block) {
   }
 }
 
-function 
+function distanceTravelledInFeet() {
+  
+}
