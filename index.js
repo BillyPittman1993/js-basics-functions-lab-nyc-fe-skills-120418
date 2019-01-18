@@ -5,7 +5,9 @@ function distanceFromHqInBlocks(distance) {
 if (distance - headquarters === 1) {
 return 1 
 }
-else { 
-return "" 
+else if (distance - headquarters === 8 { 
+return 8 
+}
   }
 }
+
