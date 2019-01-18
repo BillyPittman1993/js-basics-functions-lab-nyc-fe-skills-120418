@@ -27,4 +27,10 @@ function distanceTravelledInFeet(startingBlock, endingBlock) {
   }
 }
 
-function 
+function calculatesFarePrice() {
+  
+}
+
+
+
+
