@@ -3,9 +3,9 @@
 function distanceFromHqInBlocks(distance) {
   headquarters = 42 
 if (distance - headquarters === 1) {
-return true 
+return 1 
 }
 else { 
-return false 
+return "" 
   }
 }
