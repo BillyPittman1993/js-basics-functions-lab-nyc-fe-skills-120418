@@ -27,8 +27,12 @@ function distanceTravelledInFeet(startingBlock, endingBlock) {
   }
 }
 
-function calculatesFarePrice() {
-  
+function calculatesFarePrice(startingBlock, endingBlock) {
+  if (endingBlock < startingBlock) {
+    return (startingBlock - endingBlock) * feetInBlock
+  } else {
+    return (endingBlock - startingBlock) * feetInBlock
+  }
 }
 
 
