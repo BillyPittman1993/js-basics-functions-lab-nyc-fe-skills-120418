@@ -18,3 +18,5 @@ function distanceFromHqInFeet(block) {
     return (block - startingPoint) * feetInBlock
   }
 }
+
+function 
