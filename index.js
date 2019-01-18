@@ -7,6 +7,6 @@ return 1
 }
 else if (distance - headquarters === 8) { 
 return 8 
-    } 
-  }
+  } 
+}
 
