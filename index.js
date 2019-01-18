@@ -12,7 +12,3 @@ return 8
   return 8 
   }
 }
-
-function distanceFromHqInFeet(feet) {
-  headquarters = 
-}
